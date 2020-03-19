@@ -18,4 +18,4 @@ Repositório para o curso de React da FrontendMasters.
 
 1. Clone este repositório, abra um terminal e navegue até a pasta ``adopt-me``.
 2. Execute o comando ``yarn dev``.
-3. Acesse o endereço ``http://localhost:1234``` com um navegador.
+3. Acesse o endereço ``http://localhost:1234`` com um navegador.
